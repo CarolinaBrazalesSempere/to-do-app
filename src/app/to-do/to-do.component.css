@@ -1,0 +1,13 @@
+.btn {
+    background-color: rgb(5, 152, 103);
+    color: white;
+}
+
+.remove {
+    color: red;
+    font-weight: bold;
+}
+
+.done {
+    text-decoration: line-through;
+}

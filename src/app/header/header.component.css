@@ -1,0 +1,13 @@
+.bg-header {
+    background-color: rgb(5, 152, 103);
+}
+
+header {
+    min-height: 40vh;
+}
+
+header > p {
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+}
